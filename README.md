@@ -1,6 +1,6 @@
-# vpp
+# 一个vue版的zabbix客户端
 
-> A Vue.js project
+> doc文档：http://www.rainx.org/2017/06/28/zabbix-show/
 
 ## Build Setup
 
